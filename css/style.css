@@ -12,3 +12,21 @@
 .login {
     width: 40%;
 }
+
+.titulo-pagina {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.accepted {
+    background-color: rgb(129, 214, 129) !important;
+}
+
+.wrong-answer {
+    background-color: rgb(224, 77, 77) !important;
+}
+
+.error {
+    background-color: orange !important;
+}
